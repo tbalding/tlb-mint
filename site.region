@@ -40,7 +40,7 @@
             <a class="icon-menu" id="mobileMenu"></a>
             {.end}
             <!--MAIN NAVIGATION-->
-            <div id="desktopNav" data-content-field="navigation-mainNav" data-annotation-alignment="bottom left">
+            <div id="desktopNav" data-content-field="navigation-mainNav" data-annotation-alignment="top right">
               <squarespace:navigation navigationId="mainNav" template="navigation" />
             </div>
           </div>
